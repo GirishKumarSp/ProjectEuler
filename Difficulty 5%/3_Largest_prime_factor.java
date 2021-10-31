@@ -14,7 +14,7 @@ public class practice_problems {
                     }
                 }
                 if(count==2){
-                    System.out.println(newNum);
+                    System.out.println(newNum); //6857
                 }
             }
         }
